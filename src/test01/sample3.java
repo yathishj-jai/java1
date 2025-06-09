@@ -12,6 +12,6 @@ public class sample3 {
         a=b;
         b=c;
         System.out.println("a value is :" +a);
-        System.out.println("b value is :" +b);
+
     }
 }
