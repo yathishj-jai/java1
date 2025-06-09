@@ -7,7 +7,6 @@ public class sample3 {
         int a=4;
         int b=5;
         System.out.println("a value before swap is :" +a);
-        System.out.println("b value before swap  is :" +b);
         int c=a;
         a=b;
         b=c;
